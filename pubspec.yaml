@@ -37,8 +37,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_html: ^2.2.1
-  flutter_widget_from_html: ^0.8.5
 flutter_icons:
   android: true
   ios: true
