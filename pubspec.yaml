@@ -30,7 +30,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  
+
   #https://pub.dev/packages/fancy_shimmer_image
   fancy_shimmer_image: ^2.0.2
 
