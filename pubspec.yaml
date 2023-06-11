@@ -49,8 +49,6 @@ flutter_icons:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
-  carousel_slider: ^4.0.0
-  syncfusion_flutter_sliders: ^19.4.47
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -63,28 +61,10 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/images/
-    - assets/images/logo.png
-    - assets/images/instagram.png
-    - assets/images/priceTag.svg
-    - assets/images/truck.png
-    - assets/images/logo-afiri-bleu.png
-    - assets/images/logo-afiri-white.png
-    - assets/icons/phone-placeholder.png
-    - assets/icons/tabs/icon-home.png
-    - assets/icons/tabs/icon-cart2.png
-    - assets/icons/tabs/icon-search.png
-    - assets/icons/tabs/icon-lists.png
-    - assets/icons/tabs/icon-user.png
-    - assets/test_main_adv/s1.jpg
-    - assets/test_main_adv/s2.jpg
-    - assets/test_main_adv/s3.jpg
-    - assets/test_main_promo/promo1.jpg
-    - assets/test_main_promo/promo2.jpg
-    - assets/test_main_promo/promo3.jpg
-    - assets/test_main_promo/promo4.jpg
+  # assets:
+  #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
